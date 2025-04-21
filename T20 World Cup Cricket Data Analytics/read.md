@@ -1,6 +1,6 @@
 # 🏏 T20 Dream Team Builder & Player Analytics Dashboard
 
-An end-to-end **data analytics project** that helps build and analyze an ideal T20 Dream11 team using actual performance data. Designed to mirror enterprise-level analytics workflows, the project spans from **data acquisition to business-ready insights** via an interactive Power BI dashboard.
+An end-to-end **data analytics project** that helps build and analyse an ideal T20 Dream11 team using actual performance data. Designed to mirror enterprise-level analytics workflows, the project spans from **data acquisition to business-ready insights** via an interactive Power BI dashboard.
 
 ## 📈 The Data Journey
 
