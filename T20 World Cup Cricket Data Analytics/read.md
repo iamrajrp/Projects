@@ -2,6 +2,8 @@
 
 An end-to-end **data analytics project** that helps build and analyse an ideal T20 Dream11 team using actual performance data. Designed to mirror enterprise-level analytics workflows, the project spans from **data acquisition to business-ready insights** via an interactive Power BI dashboard.
 
+## Checkout This Dashboard - [Interactive Dashboard](https://www.novypro.com/create_project/t20-dream-team-builder--player-analytics-dashboard)
+
 ## 📈 The Data Journey
 
 This project follows a complete **ETL (Extract, Transform, Load)** data pipeline:
