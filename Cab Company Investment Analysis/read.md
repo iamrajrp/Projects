@@ -4,7 +4,7 @@
 
 This project presents a comprehensive exploratory data analysis (EDA). The goal was to assist a simulated client (XYZ) in choosing between two competing cab companies for potential investment.
 
-Over **849,000+ records** across **four datasets** were cleaned, merged, and analyzed to extract key business insights using Python and data visualization techniques.
+Over **849,000+ records** across **four datasets** were cleaned, merged, and analysed to extract key business insights using Python and data visualization techniques.
 
 ## 🧠 Objectives
 - Determine which cab company offers better profitability and customer engagement
